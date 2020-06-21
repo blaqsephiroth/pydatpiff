@@ -3,6 +3,7 @@ class Urls:
         'base'  :'https://www.datpiff.com/',
         'album' :'http://www.datpiff.com',
         'search':'https://www.datpiff.com/mixtapes-search',
+        'https://www.datpiff.com/The-Green-Starz-Green-Starz-Vol1-mixtape.239008.html'
         }
 
     category = {
